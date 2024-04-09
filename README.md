@@ -1,0 +1,1 @@
+This is a .exe export of my Macros program that gives you access to automate control of your keyboard and mouse. To use this, download one of the folders in the repository named MacrosMk#, then launch it using the only .exe in the folder.
